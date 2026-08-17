@@ -219,4 +219,4 @@ __marimo__/
 serial_log.txt
 *.log
 __pycache__/
-*.pyc
+*.pyccan_log.txt 
